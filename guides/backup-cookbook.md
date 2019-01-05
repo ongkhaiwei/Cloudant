@@ -308,4 +308,4 @@ offers for a full disaster recovery setup.
 
 [npmpackage]: https://www.npmjs.com/package/@cloudant/couchbackup
 [npmreadme]: https://github.com/cloudant/couchbackup/blob/master/README.md
-[cosclient]: https://developer.ibm.com/recipes/tutorials/cloud-object-storage-s3-api-intro/
+[cosclient]: https://console.bluemix.net/docs/services/cloud-object-storage/libraries/node.html#code-examples
